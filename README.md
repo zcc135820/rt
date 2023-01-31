@@ -6,7 +6,7 @@
 
 ## 概述
 
-本项目用于在 Replit 免费服务上部署 Trojan Websocket 协议。
+部署 Trojan ws协议。
 
 支持 WS-0RTT 降低延迟，Xray 核心客户端在 Websocket 路径后加上 ?ed=2048 即可启用。
 
@@ -20,8 +20,8 @@
  
 前往 replit.com 注册账户，然后点击下方按钮
 
-<a href="https://repl.it/github/wy580477/replit-trojan">
-  <img alt="Run on Repl.it" src="https://repl.it/badge/github/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
+<a href="https://repl.it/github/wy580477/replittrojan">
+  <img alt="Run on Repl.it" src="https://repl.it/badge/githb/andbruibm/reader-replit" style="height: 40px; width: 190px;" />
 </a>
 
 再点击 Import from Github。
